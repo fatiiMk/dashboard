@@ -1,0 +1,16 @@
+pandas
+numpy
+bokeh
+folium
+streamlit
+streamlit-folium
+matplotlib
+scikit-learn
+statsmodels
+branca
+PyPDF2
+subprocess32;platform_system=='Windows'
+jinja2
+seaborn
+pytest
+scipy
